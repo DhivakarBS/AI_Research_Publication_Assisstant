@@ -51,8 +51,3 @@ cd frontend
 npm run dev
 ```
 
-## Roadmap
-
-- Sprint 2: document ingestion and parser scaffolding
-- Sprint 3: rules engine and validator orchestration
-- Sprint 4: reporting and dashboards
